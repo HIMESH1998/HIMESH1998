@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me www.himeshbhandari.com.np
 - I can assure that, this github will have lots of projects and contributions in coming days.
 
 <!---
